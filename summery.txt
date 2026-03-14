@@ -1,0 +1,32 @@
+Dashboard Summary (Analysis)
+
+The Electric Vehicle Data Analysis Dashboard provides a comprehensive overview of electric vehicle adoption, manufacturer performance, and geographic distribution. The dashboard analyzes 114,595 total vehicles, divided into Battery Electric Vehicles (BEV) and Plug-in Hybrid Electric Vehicles (PHEV).
+
+Key Insights
+
+Total Vehicles
+
+Total EVs analyzed: 114,595
+
+Vehicle Type Distribution
+
+BEV: 87,767 vehicles (76.59%)
+
+PHEV: 26,828 vehicles (23.41%)
+
+This shows that fully electric vehicles dominate the market, indicating a shift toward zero-emission transportation.
+
+Top Manufacturers
+The dashboard highlights the Top 10 EV manufacturers by number of vehicles.
+
+Key leaders include:
+
+Tesla – 52,672 vehicles (market leader)
+
+Nissan – 12,839 vehicles
+
+Chevrolet – 10,273 vehicles
+
+Ford, BMW, Kia, Toyota follow with moderate shares.
+
+Tesla clearly dominates the EV market in this dataset.
