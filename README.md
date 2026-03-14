@@ -95,8 +95,6 @@ Explore geographic EV distribution
 
 Build an interactive dashboard using Excel
 
-📷 Dashboard Preview
-
 
 💡 Skills Demonstrated
 
